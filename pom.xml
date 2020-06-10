@@ -73,8 +73,8 @@
 	
 	<distributionManagement>
           <snapshotRepository>
-            <id>artifactory</id>
-            <url>http://18.219.118.150:8081/artifactory/libs-snapshot-local</url>
+            <id>SampleDemo</id>
+            <url>http://18.219.118.150:8081/artifactory/</url>
           </snapshotRepository>
         </distributionManagement>
 
